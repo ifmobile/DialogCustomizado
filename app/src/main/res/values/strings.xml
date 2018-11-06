@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dialog Customizado</string>
+    <string name="acesso">Solicitar Acesso</string>
+    <string name="titleDialog">Acesso Restrito</string>
+    <string name="login">Login:</string>
+    <string name="senha">Senha:</string>
+    <string name="positive">OK</string>
+    <string name="negative">Cancelar</string>
+    <string name="loginFail">Dados inválidos!</string>
+    <string name="loginCancel">Login cancelado!</string>
+    <string name="loginOK">Você está logado!</string>
+
+</resources>
